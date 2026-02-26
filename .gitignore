@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Data (skip if you want to commit small dataset)
+data/raw/
+data/processed/
+*.zip
+*.tar
+*.tar.gz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Artifacts
+models/
+*.joblib
+*.pkl
