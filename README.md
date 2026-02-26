@@ -6,7 +6,6 @@ This project presents a supervised machine learning pipeline for predicting the 
 
 The workflow includes data preprocessing, exploratory data analysis, feature preparation, model training, and performance evaluation using standard classification metrics.
 
----
 
 ## Problem Statement
 
@@ -19,7 +18,6 @@ This project aims to:
 * Evaluate model performance using appropriate metrics
 * Identify the most effective model for prediction
 
----
 
 ## Dataset
 
@@ -37,7 +35,6 @@ The dataset contains patient-level clinical features such as:
 
 The target variable indicates the presence or absence of heart disease.
 
----
 
 ## Methodology
 
@@ -76,7 +73,6 @@ Models were compared using:
 
 The best-performing model was selected based on overall predictive performance and generalization ability.
 
----
 
 ## Results
 
@@ -84,7 +80,6 @@ The final selected model achieved strong classification performance on the test 
 
 Detailed evaluation metrics and comparisons are available in the notebook.
 
----
 
 ## Project Structure
 
@@ -99,7 +94,6 @@ heart-disease-prediction/
 └── .gitignore
 ```
 
----
 
 ## How to Run
 
@@ -128,8 +122,6 @@ Open the notebook:
 ```
 jupyter notebook
 ```
-
----
 
 ## Tech Stack
 
